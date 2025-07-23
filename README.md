@@ -22,6 +22,11 @@ This project showcases an interactive **Sales Dashboard** built entirely in Micr
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 > A preview of the Excel dashboard interface.
+------
+### 🎥 Demo Video
+
+👉 [Click to watch the video](Sales_Dashboard_Demo.mp4)
+
 
 ---
 
